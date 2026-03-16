@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/selviser-admin/static/css/main.e6c13ad2.css",
+    "main.js": "/selviser-admin/static/js/main.1eb288ea.js",
+    "index.html": "/selviser-admin/index.html",
+    "main.e6c13ad2.css.map": "/selviser-admin/static/css/main.e6c13ad2.css.map",
+    "main.1eb288ea.js.map": "/selviser-admin/static/js/main.1eb288ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1eb288ea.js"
+  ]
+}
